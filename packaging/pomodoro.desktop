@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Name=Pomodoro
+Comment=Pomodoro timer in the system tray
+Exec=pomodoro
+Icon=pomodoro
+Terminal=false
+Categories=Utility;Clock;
+Keywords=timer;pomodoro;focus;work;
